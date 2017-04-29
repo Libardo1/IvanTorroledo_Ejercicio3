@@ -7,6 +7,6 @@ We included the following kernels to fit the model:
    * Polynomial
 
 
-## Ivan Torroledo 
-## Juan Aguilar
+ Ivan Torroledo 
+ Juan Aguilar
  
